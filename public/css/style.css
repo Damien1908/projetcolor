@@ -7,6 +7,11 @@ h2 {
 .grosRouge {
     font-weight: bold;
     font-size: x-large;
-    
-
+    background-color: red;
+}
+.prems{
+    text-decoration: underline;
+}
+.lignenum{
+    font-style: italic;
 }
